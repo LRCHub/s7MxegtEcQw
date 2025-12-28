@@ -1,0 +1,48 @@
+{
+  "version": 1,
+  "base_track": "Bye-Good-Bye - From THE FIRST TAKE",
+  "base_artist": "BE:FIRST",
+  "createdAt": "2025-12-28T17:41:37.569983Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Bye-Good-Bye",
+      "artist": "BE:FIRST",
+      "has_synced": true,
+      "path": "select/01_Bye-Good-Bye_BE_FIRST.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Bye-Good-Bye",
+      "artist": "BE:FIRST",
+      "has_synced": true,
+      "path": "select/02_Bye-Good-Bye_BE_FIRST.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Good Bye Good Bye Good (Album Version)",
+      "artist": "William Sheller",
+      "has_synced": true,
+      "path": "select/03_Good_Bye_Good_Bye_Good_(Album_Version)_William_Sheller.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Good Bye Good Bye Good",
+      "artist": "William Sheller",
+      "has_synced": true,
+      "path": "select/04_Good_Bye_Good_Bye_Good_William_Sheller.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Bye-Good-Bye - From THE FIRST TAKE",
+      "artist": "BE:FIRST",
+      "has_synced": false,
+      "path": "select/pl_01_Bye-Good-Bye_-_From_THE_FIRST_TAKE_BE_FIRST.txt"
+    }
+  ]
+}
